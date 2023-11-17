@@ -19,11 +19,11 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Requirements and Use-cases for Packet Optical Integration (POI) Under ACTN Framework"
+abbrev: "ACTN POI Pluggable Requirements"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-poidt-actn-poi-pluggable-requirements-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
