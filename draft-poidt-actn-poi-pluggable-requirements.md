@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: "Routing"
+workgroup: "Abstraction and Control of Transport Networks"
 keyword:
  - next generation
  - unicorn
  - sparkling distributed ledger
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "Abstraction and Control of Transport Networks"
+  type: "Working Group"
+  mail: "actn@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/search/?email_list=actn"
+  github: "italobusi/draft-poidt-actn-poi-pluggable-requirements"
+  latest: "https://italobusi.github.io/draft-poidt-actn-poi-pluggable-requirements/draft-poidt-actn-poi-pluggable-requirements.html"
 
 author:
  -
